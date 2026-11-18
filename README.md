@@ -1,3 +1,10 @@
+## 깃허브 계정이 2번이나 폭파되고 이제야 복구된 사람이 여기있습니다
+
+https://github.com/qoruddl3/BACKGROUND
+이 링크가 가장 최신입니다!!!
+
+---------------------------------------------------------------------
+
 <img width="832" height="364" alt="title_4x" src="https://github.com/user-attachments/assets/31e7a28d-8b6c-4694-8cbc-bb713540ed46" />
 
 ## 대학생이던 내가 이세계에서는 탑을 오르는 용사라고요?!
