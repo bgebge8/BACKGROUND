@@ -1,9 +1,10 @@
-## 깃허브 계정이 2번이나 폭파되고 이제야 복구된 사람이 여기있습니다
+<p align="center">
+  <img src="./github-fire%20%281%29.gif" alt="불꽃 애니메이션 배너" width="100%" />
+</p>
 
-https://github.com/qoruddl3/BACKGROUND
-이 링크가 가장 최신입니다!!!
+<h1 align="center">11월 19일 최종 업데이트 완료</h1>
 
----------------------------------------------------------------------
+---
 
 <img width="832" height="364" alt="title_4x" src="https://github.com/user-attachments/assets/31e7a28d-8b6c-4694-8cbc-bb713540ed46" />
 
@@ -13,7 +14,7 @@ https://github.com/qoruddl3/BACKGROUND
 
 **2D 탑다운 보스 액션** · Windows 64비트 · 키보드 & 마우스
 
-**[📥 Windows 다운로드 · v1.0](https://github.com/bgebge8/BACKGROUND/releases/tag/v1.0)**
+**[📥 Windows 다운로드 · [최종] BACKGROUND](https://github.com/bgebge8/BACKGROUND/releases/tag/FINAL)**
 
 ---
 
@@ -52,7 +53,7 @@ https://github.com/qoruddl3/BACKGROUND
 
 **Windows 64비트 · 키보드와 마우스 필요**
 
-1. **[릴리스 페이지](https://github.com/bgebge8/BACKGROUND/releases/tag/v1.0)**에서 게임 배포 ZIP 파일을 다운로드합니다.
+1. **[[최종] BACKGROUND 릴리즈 페이지](https://github.com/bgebge8/BACKGROUND/releases/tag/FINAL)**에서 게임 배포 ZIP 파일을 다운로드합니다.
 2. ZIP 파일의 **압축을 모두 해제**합니다.
 3. 압축을 푼 폴더에서 **`TOWER.exe`**를 실행합니다.
 4. 메인 화면에서 게임을 시작합니다.
