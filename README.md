@@ -2,7 +2,7 @@
   <img src="./github-fire%20%281%29.gif" alt="불꽃 애니메이션 배너" width="100%" />
 </p>
 
-<h1 align="center">11월 19일 최종 업데이트 완료</h1>
+<h1 align="center">11월 21일 최종 업데이트 완료</h1>
 
 ---
 
